@@ -1,7 +1,7 @@
-Firstly, If you get an error like "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
-Solution
+Firstly, If you get an error like "cURL error 60: SSL certificate problem: unable to get local issuer certificate".
 
-you should download file;
+Solution:
+- You should download file:
 https://curl.haxx.se/docs/caextract.html  and put it here:
 *For XAMPP SERVER
     "C:\xampp\php\e"xtras\ssl\cacert.pem"
